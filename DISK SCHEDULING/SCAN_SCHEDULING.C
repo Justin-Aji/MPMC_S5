@@ -37,6 +37,7 @@ int main(){
 
 /*OUTPUT
 
+
 Enter the number of process : 7
 Enter the request sequence : 82
 170
