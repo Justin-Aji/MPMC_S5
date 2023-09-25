@@ -21,3 +21,22 @@ printf("seek time:%d\n",totaldisk);
 }
 
 
+
+
+/*OUTPUT
+
+Enter the number of process : 7
+Enter the request sequence : 82
+170
+43
+140
+24
+16
+190
+Enter disk size : 200
+Enter the initial disk position : 50
+Enter direction of head (0 for left to right any other number for right to left) : 0
+The total disk movement : 332*/
+
+
+
